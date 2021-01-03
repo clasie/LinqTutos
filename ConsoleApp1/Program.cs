@@ -7,7 +7,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //I added a comment + HI there.
+            //I added a comment.
             string connetionString;
             SqlConnection cnn;
             connetionString =
